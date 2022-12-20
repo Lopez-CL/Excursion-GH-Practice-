@@ -1,0 +1,38 @@
+*{
+    margin: 15px;
+    padding: 0px;
+    transition: .1s;
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-family: sans-serif;
+}
+
+main{
+    background-color: black;
+    margin: 0 auto;
+    width: fit-content;
+}
+div{
+    margin: 2rem 0;
+}
+
+h2, h1{
+    font-size: 3rem;;
+}
+
+a {
+    color: turquoise;
+    display: block;
+}
+
+.tagline,footer {
+    color: lightslategrey;
+    font-size: 1.53rem;
+}
+
+.footer{
+    text-align: right;
+    color: grey;
+    font-size: 1.3rem;
+}
